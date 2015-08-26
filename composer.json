@@ -1,0 +1,12 @@
+{
+    "name": "root/youtube",
+    "authors": [
+        {
+            "name": "Mike Preston",
+            "email": "darkflib@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "1.0.*@beta"
+    }
+}
